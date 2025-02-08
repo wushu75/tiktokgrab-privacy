@@ -22,7 +22,7 @@ This repository serves as the official privacy policy host for TikTokGrab's Chro
 ## Contact
 
 For any questions regarding the privacy policy, please contact:
-support@tiktokgrab.com
+wushumaster75@gmail.com
 
 ## License
 
